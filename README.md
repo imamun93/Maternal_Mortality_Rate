@@ -1,7 +1,7 @@
 # Predicting Maternal Mortality Rate of the World
 ------------------------------------------------------
 
-### We Wanted to create a machine that will be able to predict a women's chance of dying given the country she is in, the country's GDP, it's expenditure on healthcare, the fertility rate of women of that country, as well as if women are provided for additional benefits such as paid maternal health care.
+### [Emma](https://github.com/emmabernstein1) and I wanted to create a machine that will be able to predict a women's chance of dying given the country she is in, the country's GDP, it's expenditure on healthcare, the fertility rate of women of that country, as well as if women are provided for additional benefits such as paid maternal health care.
 
 ___________________________________________________________________________
 
